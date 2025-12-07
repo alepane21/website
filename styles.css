@@ -114,6 +114,7 @@ h1 {
 .value {
     font-size: 1.1rem;
     font-weight: 600;
+    word-wrap: break-word;
 }
 
 @media (max-width: 600px) {
